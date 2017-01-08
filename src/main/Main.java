@@ -1,11 +1,7 @@
 package main;
 
 import frames.JFrameMain;
-import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import sudoku.Solver;
-import sudoku.Sudoku;
 
 public class Main {
 
